@@ -3,9 +3,16 @@
         <title>My New Hugo Site</title>
         <link>https://WiredCraftTest1.github.io/</link>
         <description>This is Matthew&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Sep 2021 10:49:37 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Sep 2021 10:53:15 &#43;0000</lastBuildDate>
             <atom:link href="https://WiredCraftTest1.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Daily Quote</title>
+    <link>https://WiredCraftTest1.github.io/quote_e453a9769d0f40ada98e693bacaf7304/</link>
+    <pubDate>Fri, 03 Sep 2021 10:53:15 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://WiredCraftTest1.github.io/quote_e453a9769d0f40ada98e693bacaf7304/</guid>
+    <description><![CDATA[&quot; 真心等你的人，他总会真心等下去，不愿意等你的人，总是一转身就牵了别人的手。&quot;]]></description>
+</item><item>
     <title>Daily Quote</title>
     <link>https://WiredCraftTest1.github.io/quote_a8b843af60984644a58899e9f94410ff/</link>
     <pubDate>Fri, 03 Sep 2021 10:49:37 &#43;0000</pubDate>
@@ -68,12 +75,5 @@
     <author>Author</author>
     <guid>https://WiredCraftTest1.github.io/quote_897364cc938646a9a09b93492ae8fdfe/</guid>
     <description><![CDATA[&quot; 我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。&quot;]]></description>
-</item><item>
-    <title>Daily Quote</title>
-    <link>https://WiredCraftTest1.github.io/quote_8e3a3ab399a64c219635ab47f9ddc766/</link>
-    <pubDate>Fri, 03 Sep 2021 03:40:32 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://WiredCraftTest1.github.io/quote_8e3a3ab399a64c219635ab47f9ddc766/</guid>
-    <description><![CDATA[&quot; 铁杵能磨成针，但木杵只能磨成牙签。材料不对再努力也没用。&quot;]]></description>
 </item></channel>
 </rss>
