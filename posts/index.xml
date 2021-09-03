@@ -3,7 +3,35 @@
         <title>All Posts - My New Hugo Site</title>
         <link>https://WiredCraftTest1.github.io/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Sep 2021 03:50:39 &#43;0000</lastBuildDate><atom:link href="https://WiredCraftTest1.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 03 Sep 2021 03:58:47 &#43;0000</lastBuildDate><atom:link href="https://WiredCraftTest1.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Daily Quote</title>
+    <link>https://WiredCraftTest1.github.io/quote_84c3b4381fb749cf9044a8138b452cfd/</link>
+    <pubDate>Fri, 03 Sep 2021 03:58:47 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://WiredCraftTest1.github.io/quote_84c3b4381fb749cf9044a8138b452cfd/</guid>
+    <description><![CDATA[&quot; 要让一群人团结起来，需要的不是英明的领导，而是共同的敌人。&quot;]]></description>
+</item><item>
+    <title>Daily Quote</title>
+    <link>https://WiredCraftTest1.github.io/quote_de142000bf484bdfb9b1a95771c10456/</link>
+    <pubDate>Fri, 03 Sep 2021 03:56:59 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://WiredCraftTest1.github.io/quote_de142000bf484bdfb9b1a95771c10456/</guid>
+    <description><![CDATA[&quot; 当然是不会原谅你了，要杀我就得彻底杀死，未来永远，我都不允许你死。&quot;]]></description>
+</item><item>
+    <title>Daily Quote</title>
+    <link>https://WiredCraftTest1.github.io/quote_0b872dcf71a04cf6a442f18f5b495e0b/</link>
+    <pubDate>Fri, 03 Sep 2021 03:55:41 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://WiredCraftTest1.github.io/quote_0b872dcf71a04cf6a442f18f5b495e0b/</guid>
+    <description><![CDATA[&quot; 冰冻三尺非一日之寒，掏空钱包却一点不难。&quot;]]></description>
+</item><item>
+    <title>Daily Quote</title>
+    <link>https://WiredCraftTest1.github.io/quote_fd2bda6d790141a1865a36a790e4143e/</link>
+    <pubDate>Fri, 03 Sep 2021 03:54:16 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://WiredCraftTest1.github.io/quote_fd2bda6d790141a1865a36a790e4143e/</guid>
+    <description><![CDATA[&quot; 我不会忘记，一直，都留在我的心间。&quot;]]></description>
+</item><item>
     <title>Daily Quote</title>
     <link>https://WiredCraftTest1.github.io/quote_7e3066f5a13344efb743cae598ab0b5d/</link>
     <pubDate>Fri, 03 Sep 2021 03:50:39 &#43;0000</pubDate>
@@ -45,19 +73,5 @@
     <author>Author</author>
     <guid>https://WiredCraftTest1.github.io/quote_cf8ae50e1bc847e9b7139cbee65354ef/</guid>
     <description><![CDATA[&quot; 你的选择是做或不做，但不做就永远不会有机会&quot;]]></description>
-</item><item>
-    <title>Daily Quote</title>
-    <link>https://WiredCraftTest1.github.io/quote_cf0506efac554e728e07c54515d745cb/</link>
-    <pubDate>Fri, 03 Sep 2021 01:52:45 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://WiredCraftTest1.github.io/quote_cf0506efac554e728e07c54515d745cb/</guid>
-    <description><![CDATA[&quot; 多幸运能在消失前抱你一下，只是我始终没能说出那句话，我喜欢你。&quot;]]></description>
-</item><item>
-    <title>Post</title>
-    <link>https://WiredCraftTest1.github.io/first_post/</link>
-    <pubDate>Fri, 03 Sep 2021 08:54:06 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://WiredCraftTest1.github.io/first_post/</guid>
-    <description><![CDATA[##First Post]]></description>
 </item></channel>
 </rss>
